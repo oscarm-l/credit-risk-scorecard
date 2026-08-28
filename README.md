@@ -18,3 +18,6 @@ This project was made with the objective to create a robust Credit Risk Scorecar
 ## Phase 2 - Work in Progress
 * Integrate exxternal transactional data (Bureau and Previous Applications) to improve the predictive power through feature engineering.
 * Develop a challenger model comparing the original Logistic Regression against advanced tree-based algorithms.
+
+## Dataset
+The data used for this project is available on Kaggle: [Home Credit Default Risk Dataset](https://www.kaggle.com/c/home-credit-default-risk/data).
