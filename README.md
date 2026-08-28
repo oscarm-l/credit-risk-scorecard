@@ -8,7 +8,7 @@ This project was made with the objective to create a robust Credit Risk Scorecar
 **Microsoft Excel** Decile validation, Bad Rate calculation, Risk Decile binning.
 
 ## Repository Structure
-'notebook/': Contains the Jupyter Notebook with Feature Engineering, EDA, and the Logistic Regression model.
+'notebooks/': Contains the Jupyter Notebook with Feature Engineering, EDA, and the Logistic Regression model.
 'validation/': Excel file containing the model´s decile validation and risk categories.
 'dashboard/': Power BI dashboard screenshot and file.
 
