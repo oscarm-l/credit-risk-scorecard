@@ -13,7 +13,7 @@ This project was made with the objective to create a robust Credit Risk Scorecar
 'dashboard/': Power BI dashboard screenshot and file.
 
 ## Executive Dashboard
-![Power BI Dashboard](pd_dashboard.png)
+![Power BI Dashboard](dashboard/pd_dashboard.png)
 
 ## Phase 2 - Work in Progress
 * Integrate exxternal transactional data (Bureau and Previous Applications) to improve the predictive power through feature engineering.
